@@ -837,10 +837,7 @@ console.log(hello);*/
 //     }
 // }
 
-// if (arr[i] !== user )
-// document.write("We Are Sorry Sir "+ user + " is not available in our bakery")
-
-
+/* (Array and Loops) #08 */
 // let array1 = [24, 53, 78,92,12];
 // let sortedArray=array1.sort();
 // document.write(sortedArray+"<br />");
@@ -848,7 +845,9 @@ console.log(hello);*/
 
 /* (Array and Loops) #09 */
 // let array1 = [24, 53, 78,92,12];
-// document.write(Math.min(...array1));
+// let sortedArray=array1.sort();
+// document.write(sortedArray+"<br />");
+// document.write("Smallest Number :"+sortedArray[0]);
 
 /* (Array and Loops) #10 */
 // let num=5;
