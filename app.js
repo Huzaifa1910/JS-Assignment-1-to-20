@@ -841,9 +841,10 @@ console.log(hello);*/
 // document.write("We Are Sorry Sir "+ user + " is not available in our bakery")
 
 
-/* (Array and Loops) #08 */
 // let array1 = [24, 53, 78,92,12];
-// document.write(Math.max(...array1));
+// let sortedArray=array1.sort();
+// document.write(sortedArray+"<br />");
+// document.write("Largest Number :"+sortedArray[4]);
 
 /* (Array and Loops) #09 */
 // let array1 = [24, 53, 78,92,12];
