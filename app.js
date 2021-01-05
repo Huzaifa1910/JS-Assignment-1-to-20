@@ -824,17 +824,19 @@ console.log(hello);*/
 
 /* (Array and Loops) #07 */
 // let i,j;
-// let arr = ['cake', 'apple pie', 'cookie', 'chips', 'patties'];
+// let arr = ['cake', 'apple-pie', 'cookie', 'chips', 'patties'];
 // let user = prompt("Wellcome to abc Bakery!!What do you want to order sir/ma'am")
+// let flag=false;
 // for(j=0;j<1;j++){
 //     for ( i = 0; i <= arr.length; i++) {
 //         if (arr[i] === user ) {
 //             document.write(arr[i] + " is Available at index "+ [i] +" in our bakery")
+//             flag==true;
 //         }  
-//         else{
-//             document.write("We Are Sorry Sir "+ user + " is not available in our bakery");
-//         }
 //     }
+// }
+// if(flag==false){
+// document.write("We are Sorry sir " +user +" is not available in our bakery")
 // }
 
 /* (Array and Loops) #08 */
